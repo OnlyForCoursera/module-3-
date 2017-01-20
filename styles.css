@@ -16,14 +16,7 @@ body {
 	  box-shadow: 0 5px 5px 1px #56f442;
 
 }
-#menu-tile{
-	background:url('../images/menu-tile.jpg');
-	background-position:center;
-}
-#specials-tile{
-	background:url('../images/specials-tile.jpg');
-	
-}
+
 #menu-tile span, #specials-tile span, #map-tile span {
   position: absolute;
   bottom: 0;
@@ -44,12 +37,7 @@ body {
   border: 0;
 }
 
-#logo-img {
-  background: url('../images/restaurant-logo_large.png') no-repeat;
-  width: 150px;
-  height: 150px;
-  margin: 10px 15px 10px 0;
-}
+
 
 .navbar-brand {
   padding-top: 25px;
@@ -177,16 +165,7 @@ h1
 	background-color:#62f442;
 }
 
-@media (min-width: 992px) and (max-width: 1199px) {
 
-  #logo-img {
-    background: url('../images/restaurant-logo_medium.png') no-repeat;
-    width: 100px;
-    height: 100px;
-    margin: 5px 5px 5px 0;
-  }
-
-}
   
 
 
